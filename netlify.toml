@@ -1,7 +1,5 @@
 [build]
   command = "npm run build"
-  publish = ".svelte-kit/output/client"
 
-# Netlify functions for SSR
 [functions]
   node_version = "20"
